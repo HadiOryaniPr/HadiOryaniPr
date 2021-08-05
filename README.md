@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hadioryanipr@gmail.com**
 
-- 😁 **love game 🎮 and think i am funny Because others say**
+-😍😁 **love game 🎮 and think i am funny Because others say**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
