@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤟, I'm Hadi Oryani</h1>
-<h3 align="center">A FrontEnd Developer from iran <br>🟢<br>⚪<br>🔴</h3> 
+<h3 align="center">A FrontEnd Developer from iran</h3> 
 
 - 🤔 What am I focusing on **Java Script**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hadioryanipr@gmail.com**
 
--😍😁 **love game 🎮 and think i am funny Because others say**
+- 😍😁 **love game 🎮 and think i am funny Because others say**
 
 <h3 align="left">🔵 Connect with me:</h3>
 <p align="left">
