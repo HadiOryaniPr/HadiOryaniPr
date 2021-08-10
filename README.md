@@ -29,7 +29,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadioryanipr&show_icons=true&locale=en" alt="hadioryanipr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadioryanipr&show_icons=true&locale=en&" alt="hadioryanipr" /></p>
 
 
 
