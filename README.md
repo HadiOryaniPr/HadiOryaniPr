@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤟, I'm Hadi Oryani</h1>
 <h3 align="center">A FrontEnd Developer from iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadioryanipr&label=Profile%20views&color=0e75b6&style=flat" alt="hadioryanipr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadioryanipr&label=Profile%20views&color=272727&style=flat" alt="hadioryanipr" /> </p>
 
 - 🤔 What am I focusing on **Java Script**
 
