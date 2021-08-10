@@ -24,4 +24,4 @@
  
 <img src="https://github-readme-stats.vercel.app/api?username=HadiOryaniPr&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=212529"></img>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadioryanipr&theme=dark&hide_langs_below=1"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadioryanipr&theme=212529&hide_langs_below=1"></img>
