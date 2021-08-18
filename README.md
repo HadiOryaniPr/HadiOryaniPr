@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HadiOryaniPr?tab=repositories](https://github.com/HadiOryaniPr?tab=repositories)
 
-- ❓ Ask me about **HTML / CSS / SASS**
+- ❓ Ask me about **HTML / CSS / SASS** 
 
 - 📫 How to reach me **hadioryanipr@gmail.com**
 
