@@ -6,8 +6,6 @@
 - 🤔 What am I focusing on **Java Script**
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/HadiOryaniPr?tab=repositories">GitHub</a>
-
-- ❓ Ask me about **HTML / CSS / SASS**
  
 - 📫 How to reach me **hadioryanipr@gmail.com**
 
