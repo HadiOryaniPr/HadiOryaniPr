@@ -10,7 +10,7 @@
 - 📫 How to reach me **hadioryanipr@gmail.com**
  
 - 🤘 **love game & and think i am funny Because others say**
-
+ 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
 <a href="https://twitter.com/@hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hadioryanipr" height="30" width="40" /></a>
