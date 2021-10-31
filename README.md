@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadioryanipr&label=Profile%20views&color=0e75b6&style=flat" alt="hadioryanipr" /> </p>
  
-- 🤔 What am I focusing on **Java Script** 
+- 🤔 What am I focusing on **Java Script**  
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/HadiOryaniPr?tab=repositories">GitHub</a>
    
