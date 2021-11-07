@@ -4,9 +4,7 @@
 - 🤔 What am I focusing on **Java Script**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HadiOryaniPr?tab=repositories](https://github.com/HadiOryaniPr?tab=repositories)
-
-- ❓ Ask me about **HTML / CSS / SASS**
-
+- 
 - 📫 How to reach me **hadioryanipr@gmail.com**
 
 - 😁 Fun fact **love game & and think i am funny Because others say**
