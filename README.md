@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
 <a href="https://twitter.com/@hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hadioryanipr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadi-oryani-917544219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadi-oryani-917544219/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hadi-oryani-917544219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadioryani-917544219/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16299432/hadioryani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16299432/hadioryani" height="30" width="40" /></a>
 <a href="https://instagram.com/hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadioryanipr" height="30" width="40" /></a>
 <a href="https://medium.com/@hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadioryanipr" height="30" width="40" /></a>
