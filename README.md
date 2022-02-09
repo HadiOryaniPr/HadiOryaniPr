@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadioryanipr&" alt="hadioryanipr" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadioryanipr&show_icons=true&locale=en&layout=compact" alt="hadioryanipr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadioryanipr&show_icons=true&locale=en&layout=compact" alt="hadioryanipr" /></p> 
 
