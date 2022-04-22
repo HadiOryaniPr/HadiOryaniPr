@@ -17,7 +17,5 @@
 
 <hr>
 
-<h1> <a href="https://hadioryanipr.github.io/introduction/" target="_blank" >My Skill</a> </h1>
+<h1> <a href="https://hadioryanipr.github.io/introduction/" target="_blank" >My Skills</a> </h1>
 
-
-<hr>
