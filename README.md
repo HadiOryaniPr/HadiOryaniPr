@@ -13,7 +13,7 @@
 <a href="https://stackoverflow.com/users/16299432/hadioryani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hadioryanipr" height="30" width="40" /></a>
 <a href="https://instagram.com/hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadioryanipr" height="30" width="40" /></a>
 <a href="https://medium.com/@hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadioryanipr" height="30" width="40" /></a>
-</p>
+</p> 
 
 <hr>
 
