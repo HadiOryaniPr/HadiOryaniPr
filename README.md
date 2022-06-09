@@ -14,7 +14,7 @@
 <a href="https://instagram.com/hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadioryanipr" height="30" width="40" /></a>
 <a href="https://medium.com/@hadioryanipr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadioryanipr" height="30" width="40" /></a>
 </p>
- 
+
 <hr>
 
 <h1> <a href="https://hadioryanipr.github.io/introduction/" target="_blank" >Languages and Tools</a> </h1>
